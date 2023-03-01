@@ -6,6 +6,6 @@ Hands on git
 - Theory
 - Hands On
 - Questions
-- Close session
+- Close Session
 
 
