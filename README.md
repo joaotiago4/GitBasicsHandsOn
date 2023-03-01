@@ -3,8 +3,9 @@ Hands on git
 
 ## Summary
 
--Theory
--Hands On
--Questions
+- Theory
+- Hands On
+- Questions
+- Close session
 
 
